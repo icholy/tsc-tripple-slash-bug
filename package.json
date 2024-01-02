@@ -1,0 +1,10 @@
+{
+	"scripts": {
+		"build": "rimraf ./lib && tsc"
+	},
+	"devDependencies": {
+		"@types/node": "^18.11.7",
+		"rimraf": "^5.0.5",
+		"typescript": "^5.3.3"
+	}
+}

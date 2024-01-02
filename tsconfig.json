@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"target": "es2020",
+		"baseUrl": ".",
+		"rootDir": "src",
+		"outDir": "lib",
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"declaration": true,
+		"types": [ "node" ]
+	},
+	"include": [ "src/" ]
+}
